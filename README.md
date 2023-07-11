@@ -494,6 +494,8 @@
 
 [GD32网盘](http://pan.baidu.com/s/1nuifedz)：：易兆创新(GD)网盘资料。
 
+[nuvoton](https://gitee.com/OpenNuvoton)::新唐科技(nuvoton)。
+
 更多资源敬请期待......
 
 ## 7、物联网、智能家居
